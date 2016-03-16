@@ -1,7 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple app to demonstrate javascript web tokens for
+user authentication. mgonzo/simple_token_auth was a previous
+attempt for me to demo tokens and I wanted to make something
+that is cleaner and tested better. This app removes the clutter
+making it a better demo.
+
+Steps are necessary to get the application up and running.
 
 Things you may want to cover:
 
